@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @flopmann
-- 👀 I’m interested in game developing
-- 🌱 I’m currently learning coding and pixel art design
+- 👀 I’m interested in tree data structures
+- 🌱 I’m currently studying a bachelor in software development at ITU
 - 💞️ I’m looking to collaborate on nothing currently
-- 📫 How to reach me Flop5899@gmail.com though you should not expect anything
+- 📫 How to reach me jensmartinbennekou@gmail.com 
 
 <!---
 flopmann/flopmann is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
